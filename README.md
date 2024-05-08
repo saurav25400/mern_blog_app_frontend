@@ -1,9 +1,9 @@
-# The MERN Stack Blogify Project: Full Web Development Unleashed - Frontend
+# The MERN Stack Blogify Project:
 
 ## Description
 
 
-The below are the task that we implemented, you'll learn about:
+The below are the task that we implemented,:
 
 1. **React Components:** Building modular, reusable components using React.
 2. **Routing:** Implementing dynamic routing in a single-page-application context with React Router.
